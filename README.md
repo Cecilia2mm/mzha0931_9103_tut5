@@ -22,5 +22,5 @@
 [Google](https://www.google.com)
 
 ![An image of a cat](http://placekitten.com/200/300)
-![Mona Lisa](Quiz8/Image/mona.jpg)
+![Mona Lisa](Repository/Quiz8/Image/mona.jpg)
 
