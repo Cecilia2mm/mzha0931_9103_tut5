@@ -3,8 +3,13 @@
 # Head 1
 ## Head 2
 ### Head 3
+#### Head 4
+##### Head 5
+###### Head 6
+
 **Boad**
 *Italic*
+
 - Order1
  - Order 1.1
  - Order 1.2
@@ -17,4 +22,3 @@
 
 ![An image of a cat](http://placekitten.com/200/300)
 
-![An image of a cat]
