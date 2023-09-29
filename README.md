@@ -4,7 +4,7 @@
 ## Part 1: Imaging Technique Inspiration
 **Artwork I chose:**
 
-![Piet_Mondrian](Image/Piet_Mondrian Broadway_Boogie_Woogie.jpeg)
+![Piet_Mondrian](Image/Piet_Mondrian_Broadway_Boogie_Woogie.jpeg)
 
 **Inspiratio:**
 ![JAQ](Image/JAQ_CHARTIER.jpeg)
