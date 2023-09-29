@@ -6,7 +6,9 @@
 
 ![Piet_Mondrian](Image/Piet_Mondrian_Broadway_Boogie_Woogie.jpeg)
 
+
 **Inspiratio:**
+
 ![JAQ](Image/JAQ_CHARTIER.jpeg)
 ![Hourglass](Image/The_Antelucan_Hourglass.jpeg)
 ![Crush](Image/Jeffrey_Simmons_Design_Crush.jpeg)
