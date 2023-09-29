@@ -19,26 +19,14 @@
 
 
 ## Part 2:  Coding Technique Exploration
+**Coding technique link:**
+[watercolor worms](https://openprocessing.org/sketch/1415126)
 
-### Head 3
-#### Head 4
-##### Head 5
-###### Head 6
+*This code could assist in implementing the imaging technique I selected in Part 1.*
+**Screenshot**
+![watercolor worms](Image/watercolor_worm.png)
+**How this coding technique might contribute to the desired effect:**
+*say*
 
-**Boad**
 
-*Italic*
-
-- Order1
- - Order 1.1
- - Order 1.2
-- Order 2
-
-1. First
-2. Second
-
-[Google](https://www.google.com)
-
-![An image of a cat](http://placekitten.com/200/300)
-![Mona Lisa](Image/mona.jpg)
 
