@@ -1,13 +1,25 @@
 # mzha0931_9103_tut5
 
-# Head 1
-## Head 2
+# Quiz 8
+## Part 1: Imaging Technique Inspiration
+**Artwork I chose:**
+![Piet_Mondrian](Image/Piet_Mondrian Broadway_Boogie_Woogie.jpeg)
+
+**Inspiratio:**
+![JAQ](Image/JAQ_CHARTIER.jpeg)
+![Hourglass](Image/The_Antelucan_Hourglass.jpeg)
+![Crush](Image/Jeffrey_Simmons_Design_Crush.jpeg)
+
+
+
+## Part 2:  Coding Technique Exploration
+
 ### Head 3
 #### Head 4
 ##### Head 5
 ###### Head 6
-**Boad**
 
+**Boad**
 
 *Italic*
 
