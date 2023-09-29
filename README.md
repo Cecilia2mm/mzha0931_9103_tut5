@@ -3,6 +3,7 @@
 # Quiz 8
 ## Part 1: Imaging Technique Inspiration
 **Artwork I chose:**
+
 ![Piet_Mondrian](Image/Piet_Mondrian Broadway_Boogie_Woogie.jpeg)
 
 **Inspiratio:**
