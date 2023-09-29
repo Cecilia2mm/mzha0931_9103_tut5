@@ -20,12 +20,15 @@
 
 ## Part 2:  Coding Technique Exploration
 **Coding technique link:**
+
 [watercolor worms](https://openprocessing.org/sketch/1415126)
 
-**Screenshot**
+**Screenshot:**
 
 ![watercolor worms](Image/watercolor_worm.png)
+
 **How this coding technique might contribute to the desired effect:**
+
 *say*
 
 
