@@ -28,7 +28,7 @@
 
 **How this coding technique might contribute to the desired effect:**
 
-*say*
+*This coding technique significantly contributes to the desired effect by creating an array of dynamic, randomly-sized circles with varying colors and transparency. The use of an array-based structure ensures a well-organized and evenly distributed layout. The dynamic properties of the circles, including size, color blending, and transparency, replicate the unpredictable and layered appearance of watercolor strokes like the artworks I found. Additionally, the incorporation of randomness adds an element of artistic spontaneity, imitating the way watercolor paints blend and interact. This coding technique effectively captures the essence of watercolor art, achieving the desired effect with creativity.*
 
 
 
