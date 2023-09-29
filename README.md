@@ -20,7 +20,6 @@
 
 ## Part 2:  Coding Technique Exploration
 **Coding technique link:**
-
 [watercolor worms](https://openprocessing.org/sketch/1415126)
 
 **Screenshot:**
