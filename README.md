@@ -7,7 +7,9 @@
 ![Piet_Mondrian](Image/Piet_Mondrian_Broadway_Boogie_Woogie.jpeg)
 
 
-**Inspiratio:**
+**Inspiration:**
+
+*These watercolor-textured paintings inspired my major assignment. This technique reminds me of squinting our eyes while viewing Piet Mondrian's masterpiece. Our eyes sense other colors than the red, yellow, and blue he used. To get a rich and layered sense of color, I intend to use the watercolor texture with its color blending and gradient effects, as well as an array-based structure. Representing the composition of Mondrian's artwork, defined by geometric patterns arranged in arrays, I apply learned skills, specifically for loop and array, explore new techniques, and make creative animation, in accordance with the assignment requirements.*
 
 ![JAQ](Image/JAQ_CHARTIER.jpeg)
 ![Hourglass](Image/The_Antelucan_Hourglass.jpeg)
